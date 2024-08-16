@@ -1,2 +1,2 @@
-def soma(a,b):
-    return a + b
+def somar(operando1,operando2):
+    return  operando1 + operando2
